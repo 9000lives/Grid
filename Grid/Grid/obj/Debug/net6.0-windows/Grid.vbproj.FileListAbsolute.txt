@@ -1,0 +1,17 @@
+C:\Users\smerdonta\source\repos\Grid\Grid\obj\Debug\net6.0-windows\Grid.vbproj.AssemblyReference.cache
+C:\Users\smerdonta\source\repos\Grid\Grid\obj\Debug\net6.0-windows\Grid.Form1.resources
+C:\Users\smerdonta\source\repos\Grid\Grid\obj\Debug\net6.0-windows\Grid.vbproj.GenerateResource.cache
+C:\Users\smerdonta\source\repos\Grid\Grid\obj\Debug\net6.0-windows\Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smerdonta\source\repos\Grid\Grid\obj\Debug\net6.0-windows\Grid.AssemblyInfoInputs.cache
+C:\Users\smerdonta\source\repos\Grid\Grid\obj\Debug\net6.0-windows\Grid.AssemblyInfo.vb
+C:\Users\smerdonta\source\repos\Grid\Grid\obj\Debug\net6.0-windows\Grid.vbproj.CoreCompileInputs.cache
+C:\Users\smerdonta\source\repos\Grid\Grid\bin\Debug\net6.0-windows\Grid.exe
+C:\Users\smerdonta\source\repos\Grid\Grid\bin\Debug\net6.0-windows\Grid.deps.json
+C:\Users\smerdonta\source\repos\Grid\Grid\bin\Debug\net6.0-windows\Grid.runtimeconfig.json
+C:\Users\smerdonta\source\repos\Grid\Grid\bin\Debug\net6.0-windows\Grid.dll
+C:\Users\smerdonta\source\repos\Grid\Grid\bin\Debug\net6.0-windows\Grid.pdb
+C:\Users\smerdonta\source\repos\Grid\Grid\obj\Debug\net6.0-windows\Grid.dll
+C:\Users\smerdonta\source\repos\Grid\Grid\obj\Debug\net6.0-windows\refint\Grid.dll
+C:\Users\smerdonta\source\repos\Grid\Grid\obj\Debug\net6.0-windows\Grid.pdb
+C:\Users\smerdonta\source\repos\Grid\Grid\obj\Debug\net6.0-windows\Grid.genruntimeconfig.cache
+C:\Users\smerdonta\source\repos\Grid\Grid\obj\Debug\net6.0-windows\ref\Grid.dll
